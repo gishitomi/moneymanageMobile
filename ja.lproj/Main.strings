@@ -1,0 +1,225 @@
+
+/* Class = "UILabel"; text = "今年今月"; ObjectID = "0yR-s3-1lL"; */
+"0yR-s3-1lL.text" = "今年今月";
+
+/* Class = "UILabel"; text = "次月"; ObjectID = "45r-EZ-KRP"; */
+"45r-EZ-KRP.text" = "次月";
+
+/* Class = "UITabBarItem"; title = "その他"; ObjectID = "4CM-lY-1a9"; */
+"4CM-lY-1a9.title" = "その他";
+
+/* Class = "UILabel"; text = "食費"; ObjectID = "5at-hU-bNy"; */
+"5at-hU-bNy.text" = "食費";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5gZ-Ae-WTf"; */
+"5gZ-Ae-WTf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "交際費"; ObjectID = "692-ac-QmF"; */
+"692-ac-QmF.text" = "交際費";
+
+/* Class = "UITabBarItem"; title = "ホーム"; ObjectID = "92H-Ld-fBb"; */
+"92H-Ld-fBb.title" = "ホーム";
+
+/* Class = "UILabel"; text = "給与"; ObjectID = "9Wi-o1-Z1r"; */
+"9Wi-o1-Z1r.text" = "給与";
+
+/* Class = "UILabel"; text = "前月"; ObjectID = "Axd-QR-wOn"; */
+"Axd-QR-wOn.text" = "前月";
+
+/* Class = "UILabel"; text = "収入"; ObjectID = "CVH-Ib-Hgk"; */
+"CVH-Ib-Hgk.text" = "収入";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CYg-uH-V1a"; */
+"CYg-uH-V1a.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "支出金額："; ObjectID = "DFq-Qq-Gvn"; */
+"DFq-Qq-Gvn.text" = "支出金額：";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "F9X-Dl-Vc5"; */
+"F9X-Dl-Vc5.normalTitle" = "決定";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FG0-KK-c8j"; */
+"FG0-KK-c8j.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "収入"; ObjectID = "GOH-PQ-Tca"; */
+"GOH-PQ-Tca.configuration.title" = "収入";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GOH-PQ-Tca"; */
+"GOH-PQ-Tca.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "￥"; ObjectID = "Gd9-7q-a44"; */
+"Gd9-7q-a44.text" = "￥";
+
+/* Class = "UILabel"; text = "今年今月"; ObjectID = "GuW-XT-xwx"; */
+"GuW-XT-xwx.text" = "今年今月";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HMc-nx-qCV"; */
+"HMc-nx-qCV.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "支出"; ObjectID = "Hjg-JZ-AJW"; */
+"Hjg-JZ-AJW.configuration.title" = "支出";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hjg-JZ-AJW"; */
+"Hjg-JZ-AJW.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hxd-Wm-YDT"; */
+"Hxd-Wm-YDT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "次月"; ObjectID = "I12-fo-kms"; */
+"I12-fo-kms.text" = "次月";
+
+/* Class = "UILabel"; text = "通信費"; ObjectID = "JvS-1x-tgA"; */
+"JvS-1x-tgA.text" = "通信費";
+
+/* Class = "UILabel"; text = "収入金額："; ObjectID = "KJK-kw-GJZ"; */
+"KJK-kw-GJZ.text" = "収入金額：";
+
+/* Class = "UILabel"; text = "次月"; ObjectID = "Lgp-4l-yT9"; */
+"Lgp-4l-yT9.text" = "次月";
+
+/* Class = "UILabel"; text = "カテゴリ"; ObjectID = "NC2-eQ-dxJ"; */
+"NC2-eQ-dxJ.text" = "カテゴリ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NFS-Sd-2Jn"; */
+"NFS-Sd-2Jn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "交通費"; ObjectID = "OeY-co-RkA"; */
+"OeY-co-RkA.text" = "交通費";
+
+/* Class = "UILabel"; text = "保険費"; ObjectID = "Omg-Hp-trj"; */
+"Omg-Hp-trj.text" = "保険費";
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "Pb5-As-c7w"; */
+"Pb5-As-c7w.title" = "戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PfX-K2-qpk"; */
+"PfX-K2-qpk.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "前月"; ObjectID = "Qaf-I1-J3q"; */
+"Qaf-I1-J3q.text" = "前月";
+
+/* Class = "UIButton"; configuration.title = "支出"; ObjectID = "S3y-aP-rwg"; */
+"S3y-aP-rwg.configuration.title" = "支出";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "S3y-aP-rwg"; */
+"S3y-aP-rwg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "貯蓄"; ObjectID = "S5t-1g-dEU"; */
+"S5t-1g-dEU.text" = "貯蓄";
+
+/* Class = "UILabel"; text = "被服費"; ObjectID = "U4Q-5J-q4c"; */
+"U4Q-5J-q4c.text" = "被服費";
+
+/* Class = "UILabel"; text = "円"; ObjectID = "U5o-86-0YE"; */
+"U5o-86-0YE.text" = "円";
+
+/* Class = "UINavigationItem"; title = "MoneyManageApp"; ObjectID = "V1H-nq-L6v"; */
+"V1H-nq-L6v.title" = "MoneyManageApp";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VHF-qh-7Zp"; */
+"VHF-qh-7Zp.text" = "Title";
+
+/* Class = "UILabel"; text = "医療費"; ObjectID = "Xe7-El-NA4"; */
+"Xe7-El-NA4.text" = "医療費";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Yf2-TX-6rS"; */
+"Yf2-TX-6rS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "美容費"; ObjectID = "Z6d-0c-iyu"; */
+"Z6d-0c-iyu.text" = "美容費";
+
+/* Class = "UILabel"; text = "ラベルテキスト"; ObjectID = "Z80-Zk-VfT"; */
+"Z80-Zk-VfT.text" = "ラベルテキスト";
+
+/* Class = "UILabel"; text = "総資産："; ObjectID = "a0W-R4-jvA"; */
+"a0W-R4-jvA.text" = "総資産：";
+
+/* Class = "UILabel"; text = "前月比"; ObjectID = "aC1-l1-GF4"; */
+"aC1-l1-GF4.text" = "前月比";
+
+/* Class = "UILabel"; text = "カテゴリ"; ObjectID = "atT-Ul-F5j"; */
+"atT-Ul-F5j.text" = "カテゴリ";
+
+/* Class = "UILabel"; text = "支出"; ObjectID = "dNV-68-C5s"; */
+"dNV-68-C5s.text" = "支出";
+
+/* Class = "UILabel"; text = "メモ"; ObjectID = "eQM-gw-bYL"; */
+"eQM-gw-bYL.text" = "メモ";
+
+/* Class = "UINavigationItem"; title = "家計簿管理"; ObjectID = "eaA-Ub-uif"; */
+"eaA-Ub-uif.title" = "家計簿管理";
+
+/* Class = "UILabel"; text = "支出額："; ObjectID = "edT-LI-Oq6"; */
+"edT-LI-Oq6.text" = "支出額：";
+
+/* Class = "UILabel"; text = "住居費"; ObjectID = "eq7-oI-Qjq"; */
+"eq7-oI-Qjq.text" = "住居費";
+
+/* Class = "UILabel"; text = "xxx"; ObjectID = "hb0-tX-zua"; */
+"hb0-tX-zua.text" = "xxx";
+
+/* Class = "UILabel"; text = "今年今月"; ObjectID = "hwP-Jh-6po"; */
+"hwP-Jh-6po.text" = "今年今月";
+
+/* Class = "UILabel"; text = "前月"; ObjectID = "i3P-hL-E5K"; */
+"i3P-hL-E5K.text" = "前月";
+
+/* Class = "UILabel"; text = "娯楽費"; ObjectID = "jbF-ea-Heb"; */
+"jbF-ea-Heb.text" = "娯楽費";
+
+/* Class = "UITabBarItem"; title = "一覧"; ObjectID = "jfo-42-4y4"; */
+"jfo-42-4y4.title" = "一覧";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k1h-7X-X2i"; */
+"k1h-7X-X2i.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "メモ"; ObjectID = "kwU-hB-IJz"; */
+"kwU-hB-IJz.text" = "メモ";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "kzD-zD-YP7"; */
+"kzD-zD-YP7.title" = "Item";
+
+/* Class = "UILabel"; text = "次月"; ObjectID = "lNB-fL-jrW"; */
+"lNB-fL-jrW.text" = "次月";
+
+/* Class = "UILabel"; text = "今年今月"; ObjectID = "mAb-gD-jEE"; */
+"mAb-gD-jEE.text" = "今年今月";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o9B-bP-hUc"; */
+"o9B-bP-hUc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "前月"; ObjectID = "oNn-dY-GLE"; */
+"oNn-dY-GLE.text" = "前月";
+
+/* Class = "UIButton"; normalTitle = "決定"; ObjectID = "ppS-FY-kB2"; */
+"ppS-FY-kB2.normalTitle" = "決定";
+
+/* Class = "UILabel"; text = "円"; ObjectID = "qI0-MU-My9"; */
+"qI0-MU-My9.text" = "円";
+
+/* Class = "UILabel"; text = "XXXX円"; ObjectID = "rt7-4G-Jlz"; */
+"rt7-4G-Jlz.text" = "XXXX円";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "u94-eU-vFD"; */
+"u94-eU-vFD.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vvy-6F-aw5"; */
+"vvy-6F-aw5.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wWc-5v-tkC"; */
+"wWc-5v-tkC.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "その他"; ObjectID = "wnT-Rb-Ycr"; */
+"wnT-Rb-Ycr.text" = "その他";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xlo-8b-6Tt"; */
+"xlo-8b-6Tt.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "収入"; ObjectID = "yxM-fL-EG2"; */
+"yxM-fL-EG2.configuration.title" = "収入";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yxM-fL-EG2"; */
+"yxM-fL-EG2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "光熱費"; ObjectID = "zha-4U-KZQ"; */
+"zha-4U-KZQ.text" = "光熱費";
