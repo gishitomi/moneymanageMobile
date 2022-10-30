@@ -21,6 +21,8 @@
 			</array>
 		</dict>
 	</dict>
+    <key>GADApplicationFooter</key>
+        <string>${ADMOB_ID}</string>
     <key>GADApplicationIdentifier</key>
     <string>ca-app-pub-9487888965458679~6302067040</string>
     <key>SKAdNetworkItems</key>

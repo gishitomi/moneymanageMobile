@@ -19,11 +19,9 @@ var globalTotalAmount: Int = 0
 //支出、収入切り替えフラグ 1:支出, 2:収入
 var kakeiboFlg: Int = 1
 
-//広告ユニットID(フッター)
-let adUnitIdFooter = "ca-app-pub-9487888965458679/2828895316"
-
-//テスト用広告ユニットID
-//let adUnitIdFooter = "ca-app-pub-3940256099942544/2934735716"
+var adUnitIdFooter: String {
+    return Bundle.main.object(forInfoDictionaryKey: "GADApplicationFooter") as! String
+}
 
 
 class ViewController: UIViewController, ChartViewDelegate, SpendDataReturn, IncomDataReturn, UIPickerViewDelegate, UIPickerViewDataSource, GADBannerViewDelegate {
