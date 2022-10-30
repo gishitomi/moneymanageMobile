@@ -63,8 +63,8 @@ class MoneyListViewController: UIViewController, UITableViewDelegate, UITableVie
     override func viewDidLoad() {
         super.viewDidLoad()
         
-//        bannerView = GADBannerView(adSize: GADAdSizeBanner)
-//        addBannerViewToView(bannerView)
+        bannerView = GADBannerView(adSize: GADAdSizeBanner)
+        addBannerViewToView(bannerView)
         
         // 常にライトモード（明るい外観）を指定することでダークモード適用を回避
         self.overrideUserInterfaceStyle = .light
@@ -141,10 +141,10 @@ class MoneyListViewController: UIViewController, UITableViewDelegate, UITableVie
         thisMonthTextField.inputAccessoryView = toolbar
         thisMonthTextField.tintColor = .white
         
-//        bannerView.adUnitID = adUnitIdFooter
-//        bannerView.rootViewController = self
-//        bannerView.load(GADRequest())
-//        bannerView.delegate = self
+        bannerView.adUnitID = adUnitIdFooter
+        bannerView.rootViewController = self
+        bannerView.load(GADRequest())
+        bannerView.delegate = self
         
     }
     

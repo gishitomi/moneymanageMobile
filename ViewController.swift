@@ -19,6 +19,7 @@ var globalTotalAmount: Int = 0
 //支出、収入切り替えフラグ 1:支出, 2:収入
 var kakeiboFlg: Int = 1
 
+//広告ID取得
 var adUnitIdFooter: String {
     return Bundle.main.object(forInfoDictionaryKey: "GADApplicationFooter") as! String
 }

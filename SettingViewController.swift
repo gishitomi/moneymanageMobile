@@ -23,8 +23,8 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
     override func viewDidLoad() {
         super.viewDidLoad()
         
-//        bannerView = GADBannerView(adSize: GADAdSizeBanner)
-//        addBannerViewToView(bannerView)
+        bannerView = GADBannerView(adSize: GADAdSizeBanner)
+        addBannerViewToView(bannerView)
         
         // 常にライトモード（明るい外観）を指定することでダークモード適用を回避
         self.overrideUserInterfaceStyle = .light
@@ -44,10 +44,10 @@ class SettingViewController: UIViewController, UITableViewDelegate, UITableViewD
         //スクロールさせない
         settingTable.isScrollEnabled = false
         
-//        bannerView.adUnitID = adUnitIdFooter
-//        bannerView.rootViewController = self
-//        bannerView.load(GADRequest())
-//        bannerView.delegate = self
+        bannerView.adUnitID = adUnitIdFooter
+        bannerView.rootViewController = self
+        bannerView.load(GADRequest())
+        bannerView.delegate = self
 
     }
 
