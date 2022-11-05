@@ -654,10 +654,10 @@ class ViewController: UIViewController, ChartViewDelegate, SpendDataReturn, Inco
 
         
         // 今月の合計支出額を追加
-        let totalSpendAmount = houseTotal + lightTotal + forkTotal + carTotal + rssTotal + starTotal + scissorTotal + tshirtTotal + personTotal + hospitalTotal + crossTotal + dollTotal + noneTotal
-        strTotalSpendAmount = amoFormat.amountFormatter(amount: totalSpendAmount)
+        let spendTotalAmount = houseTotal + lightTotal + forkTotal + carTotal + rssTotal + starTotal + scissorTotal + tshirtTotal + personTotal + hospitalTotal + crossTotal + dollTotal + incidentTotal + noneTotal
+        strTotalSpendAmount = amoFormat.amountFormatter(amount: spendTotalAmount)
         // 円グラフの中心に表示するタイトル
-        if(totalSpendAmount > 0) {
+        if(spendTotalAmount > 0) {
             pieChart.centerText = "合計支出額\n\(strTotalSpendAmount)"
         } else {
             pieChart.centerText = "当月の支出は\nありません"
@@ -757,7 +757,7 @@ class ViewController: UIViewController, ChartViewDelegate, SpendDataReturn, Inco
        let incomTotalAmount: Int = incomTotal + otherTotal
        
        //収支
-       let intMoneyDiff: Int = incomTotalAmount - totalSpendAmount
+       let intMoneyDiff: Int = incomTotalAmount - spendTotalAmount
        moneyDiff = amoFormat.amountFormatter(amount: intMoneyDiff)
        //全財産
        //今までの総支出
@@ -797,7 +797,7 @@ class ViewController: UIViewController, ChartViewDelegate, SpendDataReturn, Inco
         
         //グローバル変数に当月の合計支出/収入額格納
         if(kakeiboFlg == 1) {
-            globalTotalAmount = totalSpendAmount
+            globalTotalAmount = spendTotalAmount
         }
         else if(kakeiboFlg == 2) {
             globalTotalAmount = incomTotalAmount
