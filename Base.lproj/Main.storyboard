@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="iio-Jq-jyH">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="iio-Jq-jyH">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
         <capability name="Image references" minToolsVersion="12.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
@@ -828,6 +828,7 @@
                     <navigationItem key="navigationItem" id="VkS-X0-lNV"/>
                     <connections>
                         <outlet property="backBtn" destination="k1h-7X-X2i" id="YxP-bk-KDU"/>
+                        <outlet property="basketImage" destination="mfg-Yp-4e7" id="6Ff-we-MVi"/>
                         <outlet property="carBtn" destination="5v7-G2-PuE" id="e3K-Lw-ApX"/>
                         <outlet property="carImage" destination="XH5-pS-VfT" id="g5G-2j-CQX"/>
                         <outlet property="carLabel" destination="OeY-co-RkA" id="yM9-Cv-Z98"/>
@@ -845,6 +846,8 @@
                         <outlet property="houseBtn" destination="MUR-6D-Rnd" id="MG0-Vt-M1m"/>
                         <outlet property="houseImage" destination="RIz-4I-8PA" id="CW0-ci-RWU"/>
                         <outlet property="houseLabel" destination="eq7-oI-Qjq" id="Bvd-vK-pjP"/>
+                        <outlet property="incidentalBtn" destination="P2S-ZL-qLJ" id="gfy-kc-u30"/>
+                        <outlet property="incidentalLabel" destination="4eV-YO-cvP" id="HAf-5z-StJ"/>
                         <outlet property="leftArrow" destination="xlo-8b-6Tt" id="zIQ-o7-LyC"/>
                         <outlet property="lightBtn" destination="aUm-sL-1iu" id="zr2-wI-TW0"/>
                         <outlet property="lightImage" destination="XPl-Q2-gPj" id="lWe-R8-L8e"/>
